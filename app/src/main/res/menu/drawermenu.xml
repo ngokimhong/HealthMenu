@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/heart" android:title="@string/heart" android:icon="@drawable/ic_heart" />
+    <item android:id="@+id/bone" android:title="@string/bone" android:icon="@drawable/ic_bone"/>
+    <item android:id="@+id/stomach" android:title="@string/stomach" android:icon="@drawable/ic_stomach"/>
+    <item android:id="@+id/diet" android:title="@string/diet" android:icon="@drawable/ic_diet1"/>
+    <item android:id="@+id/sugar" android:title="@string/diabetes" android:icon="@drawable/ic_diabetes"/>
+    <item android:id="@+id/logout" android:title="@string/log_out" android:icon="@drawable/ic_logout"/>
+</menu>

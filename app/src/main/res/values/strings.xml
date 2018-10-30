@@ -11,4 +11,14 @@
     <string name="error_login_msg">Please fill empty place</string>
     <string name="health_s_kitchen">Health\'s Kitchen</string>
     <string name="loginBtn">Login</string>
+    <string name="textview">TextView</string>
+    <string name="keira">Keira</string>
+    <string name="keira_gmail_com">keira@gmail.com</string>
+    <string name="menu">Menu</string>
+    <string name="log_out">Log out</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="diet">Diet</string>
+    <string name="stomach">Stomach</string>
+    <string name="bone">Bone</string>
+    <string name="heart">Heart</string>
 </resources>
